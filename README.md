@@ -18,4 +18,4 @@
 * 9.[Css盒子模型](https://github.com/Aldebaran-123/Tasks/blob/2abc90e38fb6af5ae0413f8c0672125293b39b43/8.Css%E7%9B%92%E5%AD%90%E6%A8%A1%E5%9E%8B.html)
 * 10.[Css浮动](https://github.com/Aldebaran-123/Tasks/blob/97320fbbbf79095bce361430f9e02ebfabcee4e4/9.Css%E6%B5%AE%E5%8A%A8.html)
 * 11.[Css定位](https://github.com/Aldebaran-123/Tasks/blob/f33ee4ff818c2f17f992c5c07e70640bdf91a33d/10.Css%E5%AE%9A%E4%BD%8D.html)
-* 12.[Js导入方式]()
+* 12.[Js导入方式](https://github.com/Aldebaran-123/Tasks/blob/83e94b5543be53097b759d257512aec28184d56e/11.JS%E5%AF%BC%E5%85%A5%E6%96%B9%E5%BC%8F.html)
