@@ -23,4 +23,4 @@
 * 14.[编后感](https://github.com/Aldebaran-123/Tasks/blob/8d0a14ba170a2e9c6d720400e0ec451e04f0d61e/%E7%BC%96%E5%90%8E%E6%84%9F.md)
 # 阶段四学习成果
 * 1.[geek招新网站复刻](https://aldebaran-123.github.io/geek-web/)
-* 2.[复刻编后感]()
+* 2.[复刻编后感](https://github.com/Aldebaran-123/Tasks/blob/3509ca4080274d11d99000f91c532a333f103ca4/%E7%BC%96%E5%90%8E%E6%84%9F%EF%BC%88%E6%96%B0%EF%BC%89.md)
